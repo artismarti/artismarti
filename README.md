@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on different things at [Simply Business](https://www.simplybusiness.co.uk). (Mostly React & occasionally Rails)
 - 💡 I’m currently learning:
-  - to improve my [engineering skills](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap)
+  - to improve my [engineering skills](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap) 💻
   - to play tennis 🎾
   - to cross stitch 🧵
   - to grow a home full of plants 🌱
