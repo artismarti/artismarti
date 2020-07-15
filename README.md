@@ -1,23 +1,13 @@
-### Hi, I'm Arti 👋🏽
+## I'm Arti 👋🏽
 
-<!--
-**artismarti/artismarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Jill of all trades. Mistress of some.
 
-
-Software Engineer with extensive Agile Product Management experience.
-Jill of all trades. Mistress of some.
-
-I have a Masters Degree in Computing. I've been part of the tech industry for over a decade and have donned various hats - QA, PM, Agile Coach, Product Lead. I have lived and worked in over 8 cities, 5 countries and 3 continents. This gives me a unique perspective on understanding and adapting to various work cultures.
-I believe that a successful team is one with a culture of empathy, continuous improvement and collaboration.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on different things at [Simply Business](https://www.simplybusiness.co.uk). (Mostly React & occasionally Rails)
+- 💡 I’m currently learning:
+  - to improve my [engineering skills](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap)
+  - to play tennis 🎾
+  - to cross stitch 🧵
+  - to grow a home full of plants 🌱
+  - to do improv 🎭
+- I'm currently reading: [Pachinko](https://www.goodreads.com/book/show/34051011-pachinko)
+- I believe that _a successful team is one with a culture of empathy, continuous improvement and collaboration._
