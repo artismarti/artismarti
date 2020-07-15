@@ -11,3 +11,5 @@
   - to do improv 🎭
 - I'm currently reading: [Pachinko](https://www.goodreads.com/book/show/34051011-pachinko)
 - I believe that _a successful team is one with a culture of empathy, continuous improvement and collaboration._
+
+[!heart](heart.gif)
