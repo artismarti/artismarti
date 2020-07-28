@@ -1,5 +1,6 @@
-## I'm Arti 👋🏽
 
+## I'm Arti 👋🏽
+<div align="center">
 ### Jill of all trades. Mistress of some.
 
 - 🔭 I’m currently working on different things at [Simply Business](https://www.simplybusiness.co.uk). (Mostly React & occasionally Rails)
@@ -9,7 +10,8 @@
   - to cross stitch 🧵
   - to grow a home full of plants 🌱
   - to do improv 🎭
-- I'm currently reading: [Pachinko](https://www.goodreads.com/book/show/34051011-pachinko)
+- I'm currently reading: [The Great Alone](https://www.goodreads.com/book/show/34912895-the-great-alone).
 - I believe that _a successful team is one with a culture of empathy, continuous improvement and collaboration._
 
 ❤️
+</div>
