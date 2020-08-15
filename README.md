@@ -13,7 +13,7 @@
   - to cross stitch 🧵
   - to grow a home full of plants 🌱
   - to do improv 🎭
-- I'm currently reading: [The Great Alone](https://www.goodreads.com/book/show/34912895-the-great-alone).
+- I'm currently reading: [The Bean Trees](https://www.goodreads.com/book/show/30868.The_Bean_Trees).
 - I believe that _a successful team is one with a culture of empathy, continuous improvement and collaboration._
 
 
