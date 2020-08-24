@@ -15,7 +15,7 @@
   - do improv 🎭
   - improve my score at Beat Sabre 🔼
 - I'm currently reading: [The Bean Trees](https://www.goodreads.com/book/show/30868.The_Bean_Trees).
-- I believe that _a successful team is one with a culture of empathy, continuous improvement and collaboration._
+- I believe that a successful team is one with a culture of _empathy_, _continuous improvement_ and _collaboration._
 
 
 ❤️
