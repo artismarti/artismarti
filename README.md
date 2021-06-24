@@ -13,7 +13,7 @@
   - do embroidery 🧵
   - grow a home full of plants 🌱
   - improve my score at Beat Sabre 🔼
-- I'm currently reading: [Kim Jiyoung, Born 1982](https://www.goodreads.com/book/show/46041199-kim-jiyoung-born-1982).
+- I'm currently reading: [The Glass Hotel by Emily St. John Mandel](https://www.goodreads.com/book/show/45754981-the-glass-hotel).
 - I believe that a successful team is one with a culture of _empathy_, _continuous improvement_ and _collaboration._
 
 
