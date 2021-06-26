@@ -8,7 +8,7 @@ on:
 jobs:
   update-readme-with-goodreads-books:
     name: Update this repo's README with what you're currently reading
-    runs-on: ubuntu-latest
+    runs-on: macOS-latest
     steps:
       - uses: actions/checkout@v2
       - uses: zwacky/goodreads-profile-workflow@main
@@ -17,7 +17,7 @@ jobs:
           shelf: "currently-reading"
   update-readme-with-goodreads-books-read:
     name: Update this repo's README with the last 5 books you've read
-    runs-on: ubuntu-latest
+    runs-on: macOS-latest
     steps:
       - uses: actions/checkout@v2
       - uses: zwacky/goodreads-profile-workflow@main
