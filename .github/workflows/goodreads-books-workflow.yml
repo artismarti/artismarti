@@ -24,5 +24,4 @@ jobs:
         with:
           goodreads_user_id: "40441560"
           shelf: "read"
-          comment_tag_name: "GOODREADS-READ-LIST"
           max_books_count: "5"
