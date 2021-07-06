@@ -21,6 +21,8 @@
 ## 🚧🚧🚧 UNDER CONSTRUCTION 🚧🚧🚧
 ### What I'm Currently Reading 📖
 <!-- GOODREADS-LIST:START -->
+- [The Guest List](https://www.goodreads.com/review/show/4095254618?utm_medium=api&utm_source=rss) by Lucy Foley (⭐️3.84)
+- [10 Minutes 38 Seconds in This Strange World](https://www.goodreads.com/review/show/3286432272?utm_medium=api&utm_source=rss) by Elif Shafak (⭐️4.09)
 <!-- GOODREADS-LIST:END -->
 ### Last 5 Books I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
