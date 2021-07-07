@@ -6,7 +6,7 @@
   
 ### Jill of all trades. Mistress of some. 👑
 
-- 🔭 I’m currently working on different things at [Simply Business](https://www.simplybusiness.co.uk). (Mostly React & occasionally Rails)
+- 🔭 I’m currently working at [Ably](https://ably.com) as a Full Stack Developer.
 - 💡 I’m currently learning to:
   - improve my engineering skills 💻
   - improve my drawing skills 🎨
