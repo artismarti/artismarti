@@ -18,9 +18,13 @@
 
 ❤️
 
-### RECENT FEW BOOKS 📚
+### CURRENT BOOKS 📚
 <!-- GOODREADS-LIST:START -->
-- [10 Minutes 38 Seconds in This Strange World](https://www.goodreads.com/review/show/3286432272?utm_medium=api&utm_source=rss) by Elif Shafak (⭐️4.09)
-- [Sapiens: a Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.43)
+
 <!-- GOODREADS-LIST:END -->
+
+### LAST 5 BOOKs  📚
+<!-- GOODREADS-READ-LIST:START -->
+
+<!-- GOODREADS-READ-LIST:END -->
 
