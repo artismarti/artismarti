@@ -1,0 +1,17 @@
+name: Current book list from a goodreads
+on:
+  schedule: # Run workflow automatically
+    # This will make it run every night at 10:01 PM
+    - cron: "1 22 * * *"
+  workflow_dispatch:
+jobs:
+  update-readme-with-goodreads-books:
+    name: Update this repo's README with what you're currently reading
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: zwacky/goodreads-profile-workflow@main
+        with:
+          goodreads_user_id: "40441560"
+          shelf: "currently-reading"
+          max_books_count: "2"
