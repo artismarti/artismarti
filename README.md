@@ -26,10 +26,10 @@
 
 ### LAST 5 BOOKs  📚
 <!-- GOODREADS-READ-LIST:START -->
+- [Space Boy Volume 1 (Space Boy, #1)](https://www.goodreads.com/review/show/4159961246?utm_medium=api&utm_source=rss) by Stephen McCranie (⭐⭐⭐⭐)
 - [The Poisonwood Bible](https://www.goodreads.com/review/show/1341068210?utm_medium=api&utm_source=rss) by Barbara Kingsolver (⭐⭐⭐⭐⭐)
 - [10 Minutes 38 Seconds in This Strange World](https://www.goodreads.com/review/show/3286432272?utm_medium=api&utm_source=rss) by Elif Shafak (⭐⭐⭐)
 - [The Guest List](https://www.goodreads.com/review/show/4095254618?utm_medium=api&utm_source=rss) by Lucy Foley (⭐⭐⭐⭐)
 - [The Glass Hotel](https://www.goodreads.com/review/show/3205987273?utm_medium=api&utm_source=rss) by Emily St. John Mandel (⭐⭐⭐⭐⭐)
-- [Kim Jiyoung, Born 1982](https://www.goodreads.com/review/show/4011577709?utm_medium=api&utm_source=rss) by Cho Nam-Joo (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
