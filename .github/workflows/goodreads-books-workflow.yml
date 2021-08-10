@@ -1,4 +1,4 @@
-name: Last 5 books from a goodreads
+name: Last 10 books from a goodreads
 on:
   schedule: # Run workflow automatically
     # This will make it run every night at 10:05PM
