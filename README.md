@@ -21,7 +21,7 @@
 ### CURRENT BOOKS 📖
 <!-- GOODREADS-LIST:START -->
 - [The Tsar of Love and Techno](https://www.goodreads.com/review/show/3768509706?utm_medium=api&utm_source=rss) by Anthony Marra (⭐️4.27)
-- [Sapiens: a Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.44)
+- [Sapiens: a Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.43)
 <!-- GOODREADS-LIST:END -->
 
 ### LAST 10 BOOKs  📚
