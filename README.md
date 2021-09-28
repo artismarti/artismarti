@@ -26,15 +26,15 @@
 
 ### LAST 10 BOOKs  📚
 <!-- GOODREADS-READ-LIST:START -->
-- [My Friend Dahmer](https://www.goodreads.com/review/show/4161979715?utm_medium=api&utm_source=rss) by Derf Backderf (⭐⭐)
-- [Space Boy Volume 1 (Space Boy, #1)](https://www.goodreads.com/review/show/4159961246?utm_medium=api&utm_source=rss) by Stephen McCranie (⭐⭐⭐⭐)
-- [The Poisonwood Bible](https://www.goodreads.com/review/show/1341068210?utm_medium=api&utm_source=rss) by Barbara Kingsolver (⭐⭐⭐⭐⭐)
-- [10 Minutes 38 Seconds in This Strange World](https://www.goodreads.com/review/show/3286432272?utm_medium=api&utm_source=rss) by Elif Shafak (⭐⭐⭐)
-- [The Guest List](https://www.goodreads.com/review/show/4095254618?utm_medium=api&utm_source=rss) by Lucy Foley (⭐⭐⭐⭐)
-- [The Glass Hotel](https://www.goodreads.com/review/show/3205987273?utm_medium=api&utm_source=rss) by Emily St. John Mandel (⭐⭐⭐⭐⭐)
-- [Kim Jiyoung, Born 1982](https://www.goodreads.com/review/show/4011577709?utm_medium=api&utm_source=rss) by Cho Nam-Joo (⭐⭐⭐⭐⭐)
-- [Mexican Gothic](https://www.goodreads.com/review/show/3870953014?utm_medium=api&utm_source=rss) by Silvia Moreno-Garcia (⭐⭐⭐)
-- [Leave the World Behind](https://www.goodreads.com/review/show/3575385999?utm_medium=api&utm_source=rss) by Rumaan Alam (⭐⭐)
-- [Three Daughters of Eve](https://www.goodreads.com/review/show/3900321120?utm_medium=api&utm_source=rss) by Elif Shafak (⭐⭐⭐⭐)
+- [The Rearranged Life of Oona Lockhart](https://www.goodreads.com/review/show/3236027430?utm_medium=api&utm_source=rss) by Margarita Montimore (⭐⭐⭐)
+- [Scythe (Arc of a Scythe, #1)](https://www.goodreads.com/review/show/2842532076?utm_medium=api&utm_source=rss) by Neal Shusterman (⭐⭐⭐⭐)
+- [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/review/show/2671474744?utm_medium=api&utm_source=rss) by Matthew Walker (⭐⭐⭐⭐)
+- [The Invisible Life of Addie LaRue](https://www.goodreads.com/review/show/3604182728?utm_medium=api&utm_source=rss) by V.E. Schwab (⭐⭐⭐⭐)
+- [This Is How You Lose the Time War](https://www.goodreads.com/review/show/3063940826?utm_medium=api&utm_source=rss) by Amal El-Mohtar (⭐⭐⭐⭐⭐)
+- [How to Stop Time](https://www.goodreads.com/review/show/3418671462?utm_medium=api&utm_source=rss) by Matt Haig (⭐⭐)
+- [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://www.goodreads.com/review/show/2749380742?utm_medium=api&utm_source=rss) by John Carreyrou (⭐⭐⭐⭐)
+- [Health at Every Size: The Surprising Truth About Your Weight](https://www.goodreads.com/review/show/2958334341?utm_medium=api&utm_source=rss) by Linda Bacon (⭐⭐⭐⭐)
+- [The Reluctant Fundamentalist](https://www.goodreads.com/review/show/3045990278?utm_medium=api&utm_source=rss) by Mohsin Hamid (⭐⭐⭐)
+- [Reboot: A Blueprint for Happy, Human Business in the Digital Age](https://www.goodreads.com/review/show/2774022519?utm_medium=api&utm_source=rss) by Jason Stockwood (unrated)
 <!-- GOODREADS-READ-LIST:END -->
 
