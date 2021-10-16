@@ -21,7 +21,7 @@
 ### CURRENT BOOKS 📖
 <!-- GOODREADS-LIST:START -->
 - [Sapiens: a Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.43)
-- [Four Thousand Weeks: Time Management for Mortals](https://www.goodreads.com/review/show/4240698707?utm_medium=api&utm_source=rss) by Oliver Burkeman (⭐️4.39)
+- [Four Thousand Weeks: Time Management for Mortals](https://www.goodreads.com/review/show/4240698707?utm_medium=api&utm_source=rss) by Oliver Burkeman (⭐️4.4)
 <!-- GOODREADS-LIST:END -->
 
 ### LAST 10 BOOKs  📚
