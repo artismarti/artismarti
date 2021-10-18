@@ -20,7 +20,7 @@
 
 ### CURRENT BOOKS 📖
 <!-- GOODREADS-LIST:START -->
-- [Sapiens: a Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.43)
+- [Sapiens: a Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.42)
 - [Luster](https://www.goodreads.com/review/show/3640665377?utm_medium=api&utm_source=rss) by Raven Leilani (⭐️3.58)
 <!-- GOODREADS-LIST:END -->
 
