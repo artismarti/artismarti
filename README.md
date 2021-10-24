@@ -21,7 +21,7 @@
 ### CURRENT BOOKS 📖
 <!-- GOODREADS-LIST:START -->
 - [Sapiens: a Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.42)
-- [Luster](https://www.goodreads.com/review/show/3640665377?utm_medium=api&utm_source=rss) by Raven Leilani (⭐️3.58)
+- [The Long Long Afternoon](https://www.goodreads.com/review/show/4265013918?utm_medium=api&utm_source=rss) by Inga Vesper (⭐️3.83)
 <!-- GOODREADS-LIST:END -->
 
 ### LAST 10 BOOKs  📚
