@@ -31,10 +31,5 @@
 - [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/review/show/2671474744?utm_medium=api&utm_source=rss) by Matthew Walker (⭐⭐⭐⭐)
 - [The Invisible Life of Addie LaRue](https://www.goodreads.com/review/show/3604182728?utm_medium=api&utm_source=rss) by V.E. Schwab (⭐⭐⭐⭐)
 - [This Is How You Lose the Time War](https://www.goodreads.com/review/show/3063940826?utm_medium=api&utm_source=rss) by Amal El-Mohtar (⭐⭐⭐⭐⭐)
-- [How to Stop Time](https://www.goodreads.com/review/show/3418671462?utm_medium=api&utm_source=rss) by Matt Haig (⭐⭐)
-- [Health at Every Size: The Surprising Truth About Your Weight](https://www.goodreads.com/review/show/2958334341?utm_medium=api&utm_source=rss) by Linda Bacon (⭐⭐⭐⭐)
-- [The Reluctant Fundamentalist](https://www.goodreads.com/review/show/3045990278?utm_medium=api&utm_source=rss) by Mohsin Hamid (⭐⭐⭐)
-- [Reboot: A Blueprint for Happy, Human Business in the Digital Age](https://www.goodreads.com/review/show/2774022519?utm_medium=api&utm_source=rss) by Jason Stockwood (unrated)
-- [Kindred](https://www.goodreads.com/review/show/1342565161?utm_medium=api&utm_source=rss) by Octavia E. Butler (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 
