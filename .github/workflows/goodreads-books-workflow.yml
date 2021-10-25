@@ -1,4 +1,4 @@
-name: Last 10 books from a goodreads
+name: Last 5 books from a goodreads
 on:
   schedule: # Run workflow automatically
     # This will make it run every night at 10:05PM
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 jobs:
   update-readme-with-goodreads-books-read:
-    name: Update this repo's README with the last 5 books you've read
+    name: Update this repo's README with the last 5 books I've read
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -15,5 +15,5 @@ jobs:
           goodreads_user_id: "40441560"
           shelf: "read"
           comment_tag_name: "GOODREADS-READ-LIST"
-          max_books_count: "10"
+          max_books_count: "5"
           template: "- [$title]($url) by $author ($my_rating_stars)"
