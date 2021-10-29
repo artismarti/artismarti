@@ -20,7 +20,7 @@
 
 ### CURRENT BOOKS 📖
 <!-- GOODREADS-LIST:START -->
-- [Sapiens: a Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.42)
+- [Sapiens: a Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.43)
 - [The Long Long Afternoon](https://www.goodreads.com/review/show/4265013918?utm_medium=api&utm_source=rss) by Inga Vesper (⭐️3.83)
 <!-- GOODREADS-LIST:END -->
 
