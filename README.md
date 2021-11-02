@@ -21,7 +21,6 @@
 ### CURRENT BOOKS 📖
 <!-- GOODREADS-LIST:START -->
 - [Sapiens: a Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.43)
-- [The Startup Wife](https://www.goodreads.com/review/show/4315268690?utm_medium=api&utm_source=rss) by Tahmima Anam (⭐️3.57)
 <!-- GOODREADS-LIST:END -->
 
 ### LAST 10 BOOKs  📚
