@@ -20,6 +20,7 @@
 
 ### CURRENT BOOKS 📖
 <!-- GOODREADS-LIST:START -->
+- [Beautiful World, Where Are You](https://www.goodreads.com/review/show/4318885441?utm_medium=api&utm_source=rss) by Sally Rooney (⭐️3.83)
 - [Sapiens: a Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.43)
 <!-- GOODREADS-LIST:END -->
 
