@@ -18,8 +18,8 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Beautiful World, Where Are You](https://www.goodreads.com/review/show/4318885441?utm_medium=api&utm_source=rss) by Sally Rooney (⭐️3.81)
 - [Sapiens: a Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by David Vandermeulen (⭐️4.42)
+- [Anxious People](https://www.goodreads.com/review/show/4338088003?utm_medium=api&utm_source=rss) by Fredrik Backman (⭐️4.16)
 <!-- GOODREADS-LIST:END -->
 
 
