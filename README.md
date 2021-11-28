@@ -18,7 +18,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Sapiens: a Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by David Vandermeulen (⭐️4.42)
+- [Sapiens: a Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by David Vandermeulen (⭐️4.43)
 - [Vox](https://www.goodreads.com/review/show/2673049424?utm_medium=api&utm_source=rss) by Christina Dalcher (⭐️3.51)
 <!-- GOODREADS-LIST:END -->
 
