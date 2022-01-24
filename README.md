@@ -18,8 +18,8 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [The Ministry of Utmost Happiness](https://www.goodreads.com/review/show/2017575356?utm_medium=api&utm_source=rss) by Arundhati Roy (⭐️3.5)
 - [Sapiens: A Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by David Vandermeulen (⭐️4.43)
+- [Purple Hibiscus](https://www.goodreads.com/review/show/4501561579?utm_medium=api&utm_source=rss) by Chimamanda Ngozi Adichie (⭐️4.18)
 <!-- GOODREADS-LIST:END -->
 
 
