@@ -11,7 +11,7 @@
   - improve my engineering skills 💻
   - improve my drawing skills 🎨
   - do embroidery 🧵
-  - grow a home full of plants 🌱
+  - keep my house plants alive 🌱
   - improve my score at Beat Sabre 🔼
 - I believe that a successful team is one with a culture of _empathy_, _continuous improvement_ and _collaboration._
 
