@@ -18,8 +18,8 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
+- [The Girl Behind the Wall](https://www.goodreads.com/review/show/4765420709?utm_medium=api&utm_source=rss) by Mandy  Robotham (⭐️3.87)
 - [Sapiens: A Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by David Vandermeulen (⭐️4.42)
-- [Purple Hibiscus](https://www.goodreads.com/review/show/4501561579?utm_medium=api&utm_source=rss) by Chimamanda Ngozi Adichie (⭐️4.19)
 <!-- GOODREADS-LIST:END -->
 
 
