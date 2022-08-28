@@ -23,10 +23,10 @@
 
 ### Last Few Book(s) I Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [The Girl Behind the Wall](https://www.goodreads.com/review/show/4765420709?utm_medium=api&utm_source=rss) by Mandy  Robotham (⭐⭐)
 - [The Four Winds](https://www.goodreads.com/review/show/3773056218?utm_medium=api&utm_source=rss) by Kristin Hannah (⭐⭐)
 - [The Mothers](https://www.goodreads.com/review/show/3369977630?utm_medium=api&utm_source=rss) by Brit Bennett (⭐⭐⭐⭐)
 - [Purple Hibiscus](https://www.goodreads.com/review/show/4501561579?utm_medium=api&utm_source=rss) by Chimamanda Ngozi Adichie (⭐⭐⭐⭐)
 - [Homeland Elegies](https://www.goodreads.com/review/show/3640659036?utm_medium=api&utm_source=rss) by Ayad Akhtar (⭐⭐⭐⭐⭐)
-- [The Ministry of Utmost Happiness](https://www.goodreads.com/review/show/2017575356?utm_medium=api&utm_source=rss) by Arundhati Roy (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
