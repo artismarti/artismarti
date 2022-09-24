@@ -24,10 +24,10 @@
 
 ### Last Few Book(s) I Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [The Rose Code](https://www.goodreads.com/review/show/4979059531?utm_medium=api&utm_source=rss) by Kate Quinn (⭐⭐⭐⭐)
 - [The Arab of the Future: Volume 1: A Childhood in the Middle East, 1978-1984 - A Graphic Memoir](https://www.goodreads.com/review/show/4979893849?utm_medium=api&utm_source=rss) by Riad Sattouf (⭐⭐⭐)
 - [The Lie And How We Told It](https://www.goodreads.com/review/show/4979893447?utm_medium=api&utm_source=rss) by Tommi Parrish (⭐⭐⭐)
 - [The Communist Manifesto: A Graphic Novel](https://www.goodreads.com/review/show/4979892833?utm_medium=api&utm_source=rss) by Martin Rowson (⭐⭐⭐⭐)
 - [The Girl Behind the Wall](https://www.goodreads.com/review/show/4765420709?utm_medium=api&utm_source=rss) by Mandy  Robotham (⭐⭐)
-- [The Four Winds](https://www.goodreads.com/review/show/3773056218?utm_medium=api&utm_source=rss) by Kristin Hannah (⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
