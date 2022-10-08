@@ -18,7 +18,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [When No One Is Watching](https://www.goodreads.com/review/show/5006695178?utm_medium=api&utm_source=rss) by Alyssa Cole (⭐️3.51)
+- [Invisible Girl](https://www.goodreads.com/review/show/3604186156?utm_medium=api&utm_source=rss) by Lisa Jewell (⭐️3.76)
 - [Sapiens: A Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by David Vandermeulen (⭐️4.41)
 <!-- GOODREADS-LIST:END -->
 
