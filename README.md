@@ -24,10 +24,10 @@
 
 ### Last Few Book(s) I Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [Invisible Girl](https://www.goodreads.com/review/show/3604186156?utm_medium=api&utm_source=rss) by Lisa Jewell (⭐⭐⭐⭐)
 - [When No One Is Watching](https://www.goodreads.com/review/show/5006695178?utm_medium=api&utm_source=rss) by Alyssa Cole (⭐⭐⭐⭐)
 - [The Rose Code](https://www.goodreads.com/review/show/4979059531?utm_medium=api&utm_source=rss) by Kate Quinn (⭐⭐⭐⭐)
 - [The Arab of the Future: Volume 1: A Childhood in the Middle East, 1978-1984 - A Graphic Memoir](https://www.goodreads.com/review/show/4979893849?utm_medium=api&utm_source=rss) by Riad Sattouf (⭐⭐⭐)
 - [The Lie And How We Told It](https://www.goodreads.com/review/show/4979893447?utm_medium=api&utm_source=rss) by Tommi Parrish (⭐⭐⭐)
-- [The Communist Manifesto: A Graphic Novel](https://www.goodreads.com/review/show/4979892833?utm_medium=api&utm_source=rss) by Martin Rowson (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
