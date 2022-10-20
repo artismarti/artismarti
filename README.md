@@ -18,7 +18,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [The Immortalists](https://www.goodreads.com/review/show/3090056169?utm_medium=api&utm_source=rss) by Chloe  Benjamin (⭐️3.68)
+- [The Last Flight](https://www.goodreads.com/review/show/5056284231?utm_medium=api&utm_source=rss) by Julie   Clark (⭐️4.07)
 - [Sapiens: A Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by David Vandermeulen (⭐️4.41)
 <!-- GOODREADS-LIST:END -->
 
