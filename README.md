@@ -18,8 +18,8 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
+- [Maybe You Should Talk to Someone](https://www.goodreads.com/review/show/5166371601?utm_medium=api&utm_source=rss) by Lori Gottlieb (⭐️4.37)
 - [Heartburn](https://www.goodreads.com/review/show/5018506542?utm_medium=api&utm_source=rss) by Nora Ephron (⭐️3.58)
-- [Sapiens: A Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by David Vandermeulen (⭐️4.41)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I Read 📚
