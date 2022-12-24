@@ -18,8 +18,8 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
+- [The Wives](https://www.goodreads.com/review/show/5184608152?utm_medium=api&utm_source=rss) by Tarryn Fisher (⭐️3.61)
 - [Maybe You Should Talk to Someone](https://www.goodreads.com/review/show/5166371601?utm_medium=api&utm_source=rss) by Lori Gottlieb (⭐️4.37)
-- [Heartburn](https://www.goodreads.com/review/show/5018506542?utm_medium=api&utm_source=rss) by Nora Ephron (⭐️3.58)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I Read 📚
