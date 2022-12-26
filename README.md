@@ -19,7 +19,7 @@
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
 - [The Wives](https://www.goodreads.com/review/show/5184608152?utm_medium=api&utm_source=rss) by Tarryn Fisher (⭐️3.61)
-- [Maybe You Should Talk to Someone](https://www.goodreads.com/review/show/5166371601?utm_medium=api&utm_source=rss) by Lori Gottlieb (⭐️4.37)
+- [Sapiens: A Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by David Vandermeulen (⭐️4.41)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I Read 📚
