@@ -18,8 +18,8 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
+- [The Year of Less: How I Stopped Shopping, Gave Away My Belongings, and Discovered Life Is Worth More Than Anything You Can Buy in a Store](https://www.goodreads.com/review/show/5226526584?utm_medium=api&utm_source=rss) by Cait Flanders (⭐️3.45)
 - [Circe](https://www.goodreads.com/review/show/2765282036?utm_medium=api&utm_source=rss) by Madeline Miller (⭐️4.25)
-- [The Wives](https://www.goodreads.com/review/show/5184608152?utm_medium=api&utm_source=rss) by Tarryn Fisher (⭐️3.61)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I Read 📚
