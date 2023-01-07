@@ -24,10 +24,10 @@
 
 ### Last Few Book(s) I Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [The Year of Less: How I Stopped Shopping, Gave Away My Belongings, and Discovered Life Is Worth More Than Anything You Can Buy in a Store](https://www.goodreads.com/review/show/5226526584?utm_medium=api&utm_source=rss) by Cait Flanders (⭐⭐)
 - [The Wives](https://www.goodreads.com/review/show/5184608152?utm_medium=api&utm_source=rss) by Tarryn Fisher (⭐⭐⭐)
 - [Maybe You Should Talk to Someone](https://www.goodreads.com/review/show/5166371601?utm_medium=api&utm_source=rss) by Lori Gottlieb (⭐⭐⭐⭐⭐)
 - [Heartburn](https://www.goodreads.com/review/show/5018506542?utm_medium=api&utm_source=rss) by Nora Ephron (⭐⭐⭐⭐)
 - [The Last Flight](https://www.goodreads.com/review/show/5056284231?utm_medium=api&utm_source=rss) by Julie   Clark (⭐⭐⭐⭐)
-- [The Immortalists](https://www.goodreads.com/review/show/3090056169?utm_medium=api&utm_source=rss) by Chloe  Benjamin (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
