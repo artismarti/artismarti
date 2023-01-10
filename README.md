@@ -18,7 +18,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [The Last White Man](https://www.goodreads.com/review/show/5238490079?utm_medium=api&utm_source=rss) by Mohsin Hamid (⭐️3.51)
+- [Dear Edward](https://www.goodreads.com/review/show/3640656814?utm_medium=api&utm_source=rss) by Ann Napolitano (⭐️4.04)
 - [Circe](https://www.goodreads.com/review/show/2765282036?utm_medium=api&utm_source=rss) by Madeline Miller (⭐️4.25)
 <!-- GOODREADS-LIST:END -->
 
