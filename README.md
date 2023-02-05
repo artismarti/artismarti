@@ -18,8 +18,8 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Dear Edward](https://www.goodreads.com/review/show/3640656814?utm_medium=api&utm_source=rss) by Ann Napolitano (⭐️4.04)
 - [Circe](https://www.goodreads.com/review/show/2765282036?utm_medium=api&utm_source=rss) by Madeline Miller (⭐️4.25)
+- [Sapiens: A Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by David Vandermeulen (⭐️4.41)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I Read 📚
