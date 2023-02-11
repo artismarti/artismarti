@@ -6,7 +6,7 @@
   
 ### Jill of all trades. Mistress of some. 👑
 
-- 🔭 I work at [Ably](https://ably.com) as a Full Stack Developer.
+- 🔭 I'm a Full Stack Developer at [Ably](https://ably.com).
 - 💡 I’m learning to:
   - improve my engineering skills 💻
   - improve my drawing skills 🎨
