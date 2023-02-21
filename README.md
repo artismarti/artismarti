@@ -18,7 +18,6 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Sea of Tranquility](https://www.goodreads.com/review/show/4626892197?utm_medium=api&utm_source=rss) by Emily St. John Mandel (⭐️4.11)
 - [Sapiens: A Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by David Vandermeulen (⭐️4.41)
 <!-- GOODREADS-LIST:END -->
 
