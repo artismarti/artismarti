@@ -23,10 +23,10 @@
 
 ### Last Few Book(s) I Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [Our Missing Hearts](https://www.goodreads.com/review/show/4988097331?utm_medium=api&utm_source=rss) by Celeste Ng (⭐⭐)
 - [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/5151112166?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐⭐⭐⭐)
 - [Sea of Tranquility](https://www.goodreads.com/review/show/4626892197?utm_medium=api&utm_source=rss) by Emily St. John Mandel (⭐⭐⭐⭐⭐)
 - [Circe](https://www.goodreads.com/review/show/2765282036?utm_medium=api&utm_source=rss) by Madeline Miller (⭐⭐⭐)
 - [Dear Edward](https://www.goodreads.com/review/show/3640656814?utm_medium=api&utm_source=rss) by Ann Napolitano (⭐⭐⭐)
-- [The Last White Man](https://www.goodreads.com/review/show/5238490079?utm_medium=api&utm_source=rss) by Mohsin Hamid (⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
