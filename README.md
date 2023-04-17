@@ -18,7 +18,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [City of Girls](https://www.goodreads.com/review/show/2828774237?utm_medium=api&utm_source=rss) by Elizabeth Gilbert (⭐️4.01)
+- [The Storied Life of A.J. Fikry](https://www.goodreads.com/review/show/2684866498?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐️3.98)
 - [Sapiens: A Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by David Vandermeulen (⭐️4.41)
 <!-- GOODREADS-LIST:END -->
 
