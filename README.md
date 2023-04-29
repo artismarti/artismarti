@@ -18,7 +18,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [The Storied Life of A.J. Fikry](https://www.goodreads.com/review/show/2684866498?utm_medium=api&utm_source=rss) by Gabrielle Zevin (⭐️3.98)
+- [Wolf Hall (Thomas Cromwell, #1)](https://www.goodreads.com/review/show/5518168004?utm_medium=api&utm_source=rss) by Hilary Mantel (⭐️3.88)
 - [Sapiens: A Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by David Vandermeulen (⭐️4.41)
 <!-- GOODREADS-LIST:END -->
 
