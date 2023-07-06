@@ -10,9 +10,8 @@
 - 💡 I’m learning to:
   - improve my engineering skills 💻
   - improve my drawing skills 🎨
-  - do embroidery 🧵
+  - improve my 5K speed 🏃🏽‍♀️
   - keep my house plants alive 🌱
-  - improve my score at Beat Sabre 🔼
 - I believe that a successful team is one with a culture of _empathy_, _continuous improvement_ and _collaboration._
 
 
@@ -31,3 +30,5 @@
 - [Circe](https://www.goodreads.com/review/show/2765282036?utm_medium=api&utm_source=rss) by Madeline Miller (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
+
+In my spare time, I eat cake. 🍰
