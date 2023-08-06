@@ -17,6 +17,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
+- [How High We Go in the Dark](https://www.goodreads.com/review/show/5362248748?utm_medium=api&utm_source=rss) by Sequoia Nagamatsu (⭐️3.84)
 - [Sapiens: A Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by David Vandermeulen (⭐️4.4)
 <!-- GOODREADS-LIST:END -->
 
