@@ -6,11 +6,10 @@
   
 ### Jill of all trades. Mistress of some. 👑
 
-- 🔭 I'm a Full Stack Developer at [Ably](https://ably.com).
 - 💡 I’m learning to:
   - improve my engineering skills 💻
   - improve my drawing skills 🎨
-  - improve my 5K speed 🏃🏽‍♀️
+  - run a 10k 🏃🏽‍♀️
   - keep my house plants alive 🌱
 - I believe that a successful team is one with a culture of _empathy_, _continuous improvement_ and _collaboration._
 
