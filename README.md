@@ -17,7 +17,7 @@
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
 - [One More Thing: Stories and Other Stories](https://www.goodreads.com/review/show/5751158725?utm_medium=api&utm_source=rss) by B.J. Novak (⭐️3.67)
-- [How High We Go in the Dark](https://www.goodreads.com/review/show/5362248748?utm_medium=api&utm_source=rss) by Sequoia Nagamatsu (⭐️3.84)
+- [How High We Go in the Dark](https://www.goodreads.com/review/show/5362248748?utm_medium=api&utm_source=rss) by Sequoia Nagamatsu (⭐️3.83)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I Read 📚
