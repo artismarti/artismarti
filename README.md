@@ -16,8 +16,8 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [One More Thing: Stories and Other Stories](https://www.goodreads.com/review/show/5751158725?utm_medium=api&utm_source=rss) by B.J. Novak (⭐️3.67)
-- [How High We Go in the Dark](https://www.goodreads.com/review/show/5362248748?utm_medium=api&utm_source=rss) by Sequoia Nagamatsu (⭐️3.83)
+- [Homegoing](https://www.goodreads.com/review/show/2709839390?utm_medium=api&utm_source=rss) by Yaa Gyasi (⭐️4.48)
+- [Sapiens: A Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by David Vandermeulen (⭐️4.4)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I Read 📚
