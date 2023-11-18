@@ -16,8 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen](https://www.goodreads.com/review/show/5950126951?utm_medium=api&utm_source=rss) by Christopher McDougall (⭐️4.29)
-- [Sapiens: A Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.4)
+- [Clap When You Land](https://www.goodreads.com/review/show/5941330138?utm_medium=api&utm_source=rss) by Elizabeth Acevedo (⭐️4.24)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I Read 📚
