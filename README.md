@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Clap When You Land](https://www.goodreads.com/review/show/5941330138?utm_medium=api&utm_source=rss) by Elizabeth Acevedo (⭐️4.24)
+- [The Candy House](https://www.goodreads.com/review/show/4626893088?utm_medium=api&utm_source=rss) by Jennifer Egan (⭐️3.63)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I Read 📚
