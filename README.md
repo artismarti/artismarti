@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [The Candy House](https://www.goodreads.com/review/show/4626893088?utm_medium=api&utm_source=rss) by Jennifer Egan (⭐️3.63)
+- [Manhattan Beach](https://www.goodreads.com/review/show/2755891981?utm_medium=api&utm_source=rss) by Jennifer Egan (⭐️3.55)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I Read 📚
