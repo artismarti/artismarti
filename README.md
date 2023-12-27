@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Manhattan Beach](https://www.goodreads.com/review/show/2755891981?utm_medium=api&utm_source=rss) by Jennifer Egan (⭐️3.55)
+- [The Map of Salt and Stars](https://www.goodreads.com/review/show/2601757364?utm_medium=api&utm_source=rss) by Zeyn Joukhadar (⭐️3.91)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I Read 📚
