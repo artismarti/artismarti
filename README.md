@@ -24,7 +24,7 @@
 - [The Candy House](https://www.goodreads.com/review/show/4626893088?utm_medium=api&utm_source=rss) by Jennifer Egan (⭐⭐⭐⭐⭐)
 - [Clap When You Land](https://www.goodreads.com/review/show/5941330138?utm_medium=api&utm_source=rss) by Elizabeth Acevedo (⭐⭐⭐⭐)
 - [Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen](https://www.goodreads.com/review/show/5950126951?utm_medium=api&utm_source=rss) by Christopher McDougall (⭐⭐⭐)
-- [Sapiens: A Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by Yuval Noah Harari (unrated)
+- [Sapiens: A Graphic History, Volume 1 - The Birth of Humankind](https://www.goodreads.com/review/show/3771178926?utm_medium=api&utm_source=rss) by David Vandermeulen (unrated)
 - [Homegoing](https://www.goodreads.com/review/show/2709839390?utm_medium=api&utm_source=rss) by Yaa Gyasi (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
