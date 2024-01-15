@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [The Map of Salt and Stars](https://www.goodreads.com/review/show/2601757364?utm_medium=api&utm_source=rss) by Zeyn Joukhadar (⭐️3.91)
+- [A Visit from the Goon Squad](https://www.goodreads.com/review/show/2755894147?utm_medium=api&utm_source=rss) by Jennifer Egan (⭐️3.69)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I Read 📚
