@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [A Visit from the Goon Squad](https://www.goodreads.com/review/show/2755894147?utm_medium=api&utm_source=rss) by Jennifer Egan (⭐️3.69)
+- [Time&apos;s Mouth](https://www.goodreads.com/review/show/6305394322?utm_medium=api&utm_source=rss) by Edan Lepucki (⭐️3.82)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I Read 📚
