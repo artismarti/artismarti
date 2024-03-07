@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Time&apos;s Mouth](https://www.goodreads.com/review/show/6305394322?utm_medium=api&utm_source=rss) by Edan Lepucki (⭐️3.82)
+- [Time&apos;s Mouth](https://www.goodreads.com/review/show/6305394322?utm_medium=api&utm_source=rss) by Edan Lepucki (⭐️3.81)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I Read 📚
