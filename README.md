@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Time&apos;s Mouth](https://www.goodreads.com/review/show/6305394322?utm_medium=api&utm_source=rss) by Edan Lepucki (⭐️3.81)
+- [The Lola Quartet](https://www.goodreads.com/review/show/4340728732?utm_medium=api&utm_source=rss) by Emily St. John Mandel (⭐️3.49)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I Read 📚
