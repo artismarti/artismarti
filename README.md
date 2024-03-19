@@ -19,7 +19,7 @@
 - [The Lola Quartet](https://www.goodreads.com/review/show/4340728732?utm_medium=api&utm_source=rss) by Emily St. John Mandel (⭐️3.49)
 <!-- GOODREADS-LIST:END -->
 
-### Last Few Book(s) I Read 📚
+### Last Few Book(s) I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
 - [Time&apos;s Mouth](https://www.goodreads.com/review/show/6305394322?utm_medium=api&utm_source=rss) by Edan Lepucki (⭐⭐)
 - [A Visit from the Goon Squad](https://www.goodreads.com/review/show/2755894147?utm_medium=api&utm_source=rss) by Jennifer Egan (⭐⭐⭐⭐)
