@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [The Lola Quartet](https://www.goodreads.com/review/show/4340728732?utm_medium=api&utm_source=rss) by Emily St. John Mandel (⭐️3.49)
+- [This Time Tomorrow](https://www.goodreads.com/review/show/6411512714?utm_medium=api&utm_source=rss) by Emma Straub (⭐️3.78)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
