@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [This Time Tomorrow](https://www.goodreads.com/review/show/6411512714?utm_medium=api&utm_source=rss) by Emma Straub (⭐️3.78)
+- [The Blue Between Sky and Water](https://www.goodreads.com/review/show/6497708668?utm_medium=api&utm_source=rss) by Susan Abulhawa (⭐️4.19)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
