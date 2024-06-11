@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [The Blue Between Sky and Water](https://www.goodreads.com/review/show/6497708668?utm_medium=api&utm_source=rss) by Susan Abulhawa (⭐️4.19)
+- [Yellowface](https://www.goodreads.com/review/show/6576397382?utm_medium=api&utm_source=rss) by R.F. Kuang (⭐️3.71)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
