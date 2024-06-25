@@ -17,7 +17,6 @@
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
 - [A Place for Us](https://www.goodreads.com/review/show/2904723313?utm_medium=api&utm_source=rss) by Fatima Farheen Mirza (⭐️4.16)
-- [Yellowface](https://www.goodreads.com/review/show/6576397382?utm_medium=api&utm_source=rss) by R.F. Kuang (⭐️3.71)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
