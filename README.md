@@ -21,11 +21,11 @@
 
 ### Last Few Book(s) I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [The Perfect Nanny](https://www.goodreads.com/review/show/5543775637?utm_medium=api&utm_source=rss) by Leïla Slimani (⭐⭐⭐)
 - [A Place for Us](https://www.goodreads.com/review/show/2904723313?utm_medium=api&utm_source=rss) by Fatima Farheen Mirza (⭐⭐⭐⭐)
 - [Yellowface](https://www.goodreads.com/review/show/6576397382?utm_medium=api&utm_source=rss) by R.F. Kuang (⭐⭐⭐)
 - [The Blue Between Sky and Water](https://www.goodreads.com/review/show/6497708668?utm_medium=api&utm_source=rss) by Susan Abulhawa (⭐⭐⭐⭐)
 - [This Time Tomorrow](https://www.goodreads.com/review/show/6411512714?utm_medium=api&utm_source=rss) by Emma Straub (⭐⭐⭐)
-- [The Lola Quartet](https://www.goodreads.com/review/show/4340728732?utm_medium=api&utm_source=rss) by Emily St. John Mandel (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
 
