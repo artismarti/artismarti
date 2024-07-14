@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [The Perfect Nanny](https://www.goodreads.com/review/show/5543775637?utm_medium=api&utm_source=rss) by Leïla Slimani (⭐️3.25)
+- [Let the Great World Spin](https://www.goodreads.com/review/show/6666438154?utm_medium=api&utm_source=rss) by Colum McCann (⭐️3.95)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
