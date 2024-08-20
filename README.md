@@ -16,8 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Behold the Dreamers](https://www.goodreads.com/review/show/6744276337?utm_medium=api&utm_source=rss) by Imbolo Mbue (⭐️3.93)
-- [Let the Great World Spin](https://www.goodreads.com/review/show/6666438154?utm_medium=api&utm_source=rss) by Colum McCann (⭐️3.95)
+- [Against the Loveless World](https://www.goodreads.com/review/show/6530048981?utm_medium=api&utm_source=rss) by Susan Abulhawa (⭐️4.52)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
