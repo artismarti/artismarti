@@ -21,11 +21,11 @@
 
 ### Last Few Book(s) I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [Against the Loveless World](https://www.goodreads.com/review/show/6530048981?utm_medium=api&utm_source=rss) by Susan Abulhawa (⭐⭐⭐⭐)
 - [Behold the Dreamers](https://www.goodreads.com/review/show/6744276337?utm_medium=api&utm_source=rss) by Imbolo Mbue (⭐⭐)
 - [The Perfect Nanny](https://www.goodreads.com/review/show/5543775637?utm_medium=api&utm_source=rss) by Leïla Slimani (⭐⭐⭐)
 - [A Place for Us](https://www.goodreads.com/review/show/2904723313?utm_medium=api&utm_source=rss) by Fatima Farheen Mirza (⭐⭐⭐⭐)
 - [Yellowface](https://www.goodreads.com/review/show/6576397382?utm_medium=api&utm_source=rss) by R.F. Kuang (⭐⭐⭐)
-- [The Blue Between Sky and Water](https://www.goodreads.com/review/show/6497708668?utm_medium=api&utm_source=rss) by Susan Abulhawa (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
 
