@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Against the Loveless World](https://www.goodreads.com/review/show/6530048981?utm_medium=api&utm_source=rss) by Susan Abulhawa (⭐️4.52)
+- [The Midnight Library](https://www.goodreads.com/review/show/3598680761?utm_medium=api&utm_source=rss) by Matt Haig (⭐️3.96)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
