@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [The Midnight Library](https://www.goodreads.com/review/show/3598680761?utm_medium=api&utm_source=rss) by Matt Haig (⭐️3.96)
+- [Best of Friends](https://www.goodreads.com/review/show/5003933302?utm_medium=api&utm_source=rss) by Kamila Shamsie (⭐️3.38)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
