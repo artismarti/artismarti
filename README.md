@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Best of Friends](https://www.goodreads.com/review/show/5003933302?utm_medium=api&utm_source=rss) by Kamila Shamsie (⭐️3.38)
+- [Prophet Song](https://www.goodreads.com/review/show/6932805724?utm_medium=api&utm_source=rss) by Paul    Lynch (⭐️4.06)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
