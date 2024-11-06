@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Prophet Song](https://www.goodreads.com/review/show/6932805724?utm_medium=api&utm_source=rss) by Paul    Lynch (⭐️4.06)
+- [The Bear](https://www.goodreads.com/review/show/6982410141?utm_medium=api&utm_source=rss) by Andrew Krivak (⭐️3.86)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
