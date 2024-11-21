@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [The Bear](https://www.goodreads.com/review/show/6982410141?utm_medium=api&utm_source=rss) by Andrew Krivak (⭐️3.86)
+- [In Five Years](https://www.goodreads.com/review/show/7022534271?utm_medium=api&utm_source=rss) by Rebecca Serle (⭐️3.74)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
