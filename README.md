@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Rooftops of Tehran](https://www.goodreads.com/review/show/1213335601?utm_medium=api&utm_source=rss) by Mahbod Seraji (⭐️3.93)
+- [The Last](https://www.goodreads.com/review/show/7056402898?utm_medium=api&utm_source=rss) by Hanna Jameson (⭐️3.48)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
