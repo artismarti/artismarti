@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [The Last](https://www.goodreads.com/review/show/7056402898?utm_medium=api&utm_source=rss) by Hanna Jameson (⭐️3.48)
+- [Bright Young Women](https://www.goodreads.com/review/show/6224635011?utm_medium=api&utm_source=rss) by Jessica Knoll (⭐️4)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
