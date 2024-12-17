@@ -21,11 +21,11 @@
 
 ### Last Few Book(s) I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [The Last](https://www.goodreads.com/review/show/7056402898?utm_medium=api&utm_source=rss) by Hanna Jameson (⭐⭐⭐)
 - [Rooftops of Tehran](https://www.goodreads.com/review/show/1213335601?utm_medium=api&utm_source=rss) by Mahbod Seraji (⭐⭐⭐⭐)
 - [In Five Years](https://www.goodreads.com/review/show/7022534271?utm_medium=api&utm_source=rss) by Rebecca Serle (⭐⭐⭐)
 - [The Bear](https://www.goodreads.com/review/show/6982410141?utm_medium=api&utm_source=rss) by Andrew Krivak (⭐⭐⭐)
 - [Best of Friends](https://www.goodreads.com/review/show/5003933302?utm_medium=api&utm_source=rss) by Kamila Shamsie (⭐⭐⭐)
-- [The Midnight Library](https://www.goodreads.com/review/show/3598680761?utm_medium=api&utm_source=rss) by Matt Haig (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
 
