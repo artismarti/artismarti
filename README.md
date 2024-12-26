@@ -21,11 +21,11 @@
 
 ### Last Few Book(s) I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [Bright Young Women](https://www.goodreads.com/review/show/6224635011?utm_medium=api&utm_source=rss) by Jessica Knoll (⭐⭐⭐⭐⭐)
 - [The Last](https://www.goodreads.com/review/show/7056402898?utm_medium=api&utm_source=rss) by Hanna Jameson (⭐⭐⭐)
 - [Rooftops of Tehran](https://www.goodreads.com/review/show/1213335601?utm_medium=api&utm_source=rss) by Mahbod Seraji (⭐⭐⭐⭐)
 - [In Five Years](https://www.goodreads.com/review/show/7022534271?utm_medium=api&utm_source=rss) by Rebecca Serle (⭐⭐⭐)
 - [The Bear](https://www.goodreads.com/review/show/6982410141?utm_medium=api&utm_source=rss) by Andrew Krivak (⭐⭐⭐)
-- [Best of Friends](https://www.goodreads.com/review/show/5003933302?utm_medium=api&utm_source=rss) by Kamila Shamsie (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
 
