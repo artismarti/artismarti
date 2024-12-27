@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Bright Young Women](https://www.goodreads.com/review/show/6224635011?utm_medium=api&utm_source=rss) by Jessica Knoll (⭐️4)
+- [Anita de Monte Laughs Last](https://www.goodreads.com/review/show/7122995800?utm_medium=api&utm_source=rss) by Xóchitl González (⭐️3.77)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
