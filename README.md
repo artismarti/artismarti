@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Anita de Monte Laughs Last](https://www.goodreads.com/review/show/7122995800?utm_medium=api&utm_source=rss) by Xóchitl González (⭐️3.77)
+- [Interesting Facts about Space](https://www.goodreads.com/review/show/6224650517?utm_medium=api&utm_source=rss) by Emily R. Austin (⭐️3.83)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
