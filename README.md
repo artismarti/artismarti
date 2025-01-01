@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Interesting Facts about Space](https://www.goodreads.com/review/show/6224650517?utm_medium=api&utm_source=rss) by Emily R. Austin (⭐️3.83)
+- [Euphoria](https://www.goodreads.com/review/show/7150728808?utm_medium=api&utm_source=rss) by Lily King (⭐️3.84)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
