@@ -21,11 +21,11 @@
 
 ### Last Few Book(s) I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [49 Days](https://www.goodreads.com/review/show/7327182663?utm_medium=api&utm_source=rss) by Agnes   Lee (⭐⭐⭐⭐)
+- [The Wanderer](https://www.goodreads.com/review/show/7326901024?utm_medium=api&utm_source=rss) by Peter van den Ende (⭐⭐⭐⭐⭐)
+- [How to Be an Artist](https://www.goodreads.com/review/show/7325389983?utm_medium=api&utm_source=rss) by Jerry Saltz (⭐⭐)
+- [Euphoria](https://www.goodreads.com/review/show/7150728808?utm_medium=api&utm_source=rss) by Lily King (⭐⭐⭐⭐)
 - [Interesting Facts about Space](https://www.goodreads.com/review/show/6224650517?utm_medium=api&utm_source=rss) by Emily R. Austin (⭐⭐⭐⭐)
-- [Anita de Monte Laughs Last](https://www.goodreads.com/review/show/7122995800?utm_medium=api&utm_source=rss) by Xóchitl González (⭐⭐⭐⭐⭐)
-- [Bright Young Women](https://www.goodreads.com/review/show/6224635011?utm_medium=api&utm_source=rss) by Jessica Knoll (⭐⭐⭐⭐⭐)
-- [The Last](https://www.goodreads.com/review/show/7056402898?utm_medium=api&utm_source=rss) by Hanna Jameson (⭐⭐⭐)
-- [Rooftops of Tehran](https://www.goodreads.com/review/show/1213335601?utm_medium=api&utm_source=rss) by Mahbod Seraji (⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
 
