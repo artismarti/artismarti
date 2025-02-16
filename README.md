@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Euphoria](https://www.goodreads.com/review/show/7150728808?utm_medium=api&utm_source=rss) by Lily King (⭐️3.84)
+- [The Last Romantics](https://www.goodreads.com/review/show/7325392011?utm_medium=api&utm_source=rss) by Tara Conklin (⭐️3.66)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
