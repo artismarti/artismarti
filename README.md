@@ -16,6 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
+- [Passing for Human: A Graphic Memoir](https://www.goodreads.com/review/show/7332076492?utm_medium=api&utm_source=rss) by Liana Finck (⭐️3.78)
 - [The Last Romantics](https://www.goodreads.com/review/show/7325392011?utm_medium=api&utm_source=rss) by Tara Conklin (⭐️3.66)
 <!-- GOODREADS-LIST:END -->
 
