@@ -16,8 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Saga, Volume 2](https://www.goodreads.com/review/show/7345835920?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐️4.49)
-- [Passing for Human: A Graphic Memoir](https://www.goodreads.com/review/show/7332076492?utm_medium=api&utm_source=rss) by Liana Finck (⭐️3.77)
+- [The Last Romantics](https://www.goodreads.com/review/show/7325392011?utm_medium=api&utm_source=rss) by Tara Conklin (⭐️3.66)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
