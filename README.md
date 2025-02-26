@@ -21,11 +21,11 @@
 
 ### Last Few Book(s) I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [The Last Romantics](https://www.goodreads.com/review/show/7325392011?utm_medium=api&utm_source=rss) by Tara Conklin (⭐⭐⭐⭐)
 - [Saga, Volume 2](https://www.goodreads.com/review/show/7345835920?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐⭐⭐⭐⭐)
 - [Passing for Human: A Graphic Memoir](https://www.goodreads.com/review/show/7332076492?utm_medium=api&utm_source=rss) by Liana Finck (⭐⭐⭐⭐⭐)
 - [49 Days](https://www.goodreads.com/review/show/7327182663?utm_medium=api&utm_source=rss) by Agnes   Lee (⭐⭐⭐⭐)
 - [The Wanderer](https://www.goodreads.com/review/show/7326901024?utm_medium=api&utm_source=rss) by Peter van den Ende (⭐⭐⭐⭐⭐)
-- [How to Be an Artist](https://www.goodreads.com/review/show/7325389983?utm_medium=api&utm_source=rss) by Jerry Saltz (⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
 
