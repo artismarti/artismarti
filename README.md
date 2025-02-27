@@ -16,7 +16,8 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [The Last Romantics](https://www.goodreads.com/review/show/7325392011?utm_medium=api&utm_source=rss) by Tara Conklin (⭐️3.66)
+- [The Hurting Kind: Poems](https://www.goodreads.com/review/show/7358014718?utm_medium=api&utm_source=rss) by Ada Limon (⭐️4.34)
+- [The Mars Room](https://www.goodreads.com/review/show/7358014080?utm_medium=api&utm_source=rss) by Rachel Kushner (⭐️3.42)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
