@@ -16,8 +16,8 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [The Hurting Kind: Poems](https://www.goodreads.com/review/show/7358014718?utm_medium=api&utm_source=rss) by Ada Limon (⭐️4.34)
-- [The Mars Room](https://www.goodreads.com/review/show/7358014080?utm_medium=api&utm_source=rss) by Rachel Kushner (⭐️3.42)
+- [The Urban Sketching Handbook Sketch Now, Think Later: Jump into Urban Sketching with Limited Time, Tools, and Techniques (Urban Sketching Handbooks)](https://www.goodreads.com/review/show/7361021344?utm_medium=api&utm_source=rss) by Mike Yoshiaki Daikubara (⭐️4.15)
+- [Saga, Volume 3](https://www.goodreads.com/review/show/7345836157?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐️4.48)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
