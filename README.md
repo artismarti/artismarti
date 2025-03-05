@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Grown Women](https://www.goodreads.com/review/show/7366608537?utm_medium=api&utm_source=rss) by Sarai  Johnson (⭐️4.3)
+- [Grown Women](https://www.goodreads.com/review/show/7366608537?utm_medium=api&utm_source=rss) by Sarai  Johnson (⭐️4.31)
 - [The Urban Sketching Handbook Sketch Now, Think Later: Jump into Urban Sketching with Limited Time, Tools, and Techniques (Urban Sketching Handbooks)](https://www.goodreads.com/review/show/7361021344?utm_medium=api&utm_source=rss) by Mike Yoshiaki Daikubara (⭐️4.15)
 <!-- GOODREADS-LIST:END -->
 
