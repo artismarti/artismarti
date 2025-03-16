@@ -16,7 +16,7 @@
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [The God of the Woods](https://www.goodreads.com/review/show/7403311394?utm_medium=api&utm_source=rss) by Liz    Moore (⭐️4.17)
+- [The God of the Woods](https://www.goodreads.com/review/show/7403311394?utm_medium=api&utm_source=rss) by Liz    Moore (⭐️4.16)
 - [Saga, Volume 3](https://www.goodreads.com/review/show/7345836157?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐️4.48)
 <!-- GOODREADS-LIST:END -->
 
