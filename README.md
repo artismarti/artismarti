@@ -21,11 +21,11 @@
 
 ### Last Few Book(s) I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [Saga, Volume 6](https://www.goodreads.com/review/show/7345837510?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐⭐⭐⭐⭐)
 - [Saga, Volume 5](https://www.goodreads.com/review/show/7345836305?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐⭐⭐⭐⭐)
 - [Saga, Volume 4](https://www.goodreads.com/review/show/7345836225?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐⭐⭐⭐⭐)
 - [Saga, Volume 3](https://www.goodreads.com/review/show/7345836157?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐⭐⭐⭐⭐)
 - [Grown Women](https://www.goodreads.com/review/show/7366608537?utm_medium=api&utm_source=rss) by Sarai  Johnson (⭐⭐⭐⭐)
-- [The Urban Sketching Handbook Sketch Now, Think Later: Jump into Urban Sketching with Limited Time, Tools, and Techniques (Urban Sketching Handbooks)](https://www.goodreads.com/review/show/7361021344?utm_medium=api&utm_source=rss) by Mike Yoshiaki Daikubara (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
 
