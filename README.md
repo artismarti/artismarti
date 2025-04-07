@@ -15,6 +15,14 @@
 I believe that a successful team is one with a culture of _empathy_, _continuous improvement_ and _collaboration._
 
 
+### Tech I tinker with 🛠️  
+
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) 
+
+
+
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
 - [The God of the Woods](https://www.goodreads.com/review/show/7403311394?utm_medium=api&utm_source=rss) by Liz    Moore (⭐️4.16)
