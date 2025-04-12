@@ -30,11 +30,11 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Last Few Book(s) I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [The God of the Woods](https://www.goodreads.com/review/show/7403311394?utm_medium=api&utm_source=rss) by Liz    Moore (⭐⭐⭐⭐⭐)
 - [Saga, Volume 7](https://www.goodreads.com/review/show/7345837605?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐⭐⭐⭐⭐)
 - [Saga, Volume 6](https://www.goodreads.com/review/show/7345837510?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐⭐⭐⭐⭐)
 - [Saga, Volume 5](https://www.goodreads.com/review/show/7345836305?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐⭐⭐⭐⭐)
 - [Saga, Volume 4](https://www.goodreads.com/review/show/7345836225?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐⭐⭐⭐⭐)
-- [Saga, Volume 3](https://www.goodreads.com/review/show/7345836157?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
 
