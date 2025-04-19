@@ -25,7 +25,7 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [The God of the Woods](https://www.goodreads.com/review/show/7403311394?utm_medium=api&utm_source=rss) by Liz    Moore (⭐️4.16)
+- [The Woman Upstairs](https://www.goodreads.com/review/show/3925440082?utm_medium=api&utm_source=rss) by Claire Messud (⭐️3.29)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
