@@ -25,7 +25,7 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [The Woman Upstairs](https://www.goodreads.com/review/show/3925440082?utm_medium=api&utm_source=rss) by Claire Messud (⭐️3.29)
+- [The Women](https://www.goodreads.com/review/show/7059265189?utm_medium=api&utm_source=rss) by Kristin Hannah (⭐️4.59)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
