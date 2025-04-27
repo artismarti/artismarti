@@ -25,7 +25,7 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [The Women](https://www.goodreads.com/review/show/7059265189?utm_medium=api&utm_source=rss) by Kristin Hannah (⭐️4.59)
+- [The Safekeep](https://www.goodreads.com/review/show/7521222460?utm_medium=api&utm_source=rss) by Yael van der Wouden (⭐️4.05)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
