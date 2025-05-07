@@ -30,11 +30,11 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Last Few Book(s) I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [The Safekeep](https://www.goodreads.com/review/show/7521222460?utm_medium=api&utm_source=rss) by Yael van der Wouden (⭐⭐⭐⭐⭐)
 - [Saga, Volume 8](https://www.goodreads.com/review/show/7345837725?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐⭐⭐⭐⭐)
 - [The Women](https://www.goodreads.com/review/show/7059265189?utm_medium=api&utm_source=rss) by Kristin Hannah (⭐⭐⭐)
 - [The Woman Upstairs](https://www.goodreads.com/review/show/3925440082?utm_medium=api&utm_source=rss) by Claire Messud (⭐⭐⭐)
 - [The God of the Woods](https://www.goodreads.com/review/show/7403311394?utm_medium=api&utm_source=rss) by Liz    Moore (⭐⭐⭐⭐⭐)
-- [Saga, Volume 7](https://www.goodreads.com/review/show/7345837605?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
 
