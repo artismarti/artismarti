@@ -9,7 +9,7 @@
 💡 I’m learning to:
   - improve my engineering skills 💻
   - improve my drawing skills 🎨
-  - improve my half marathon speeds 🏃🏽‍♀️
+  - improve my half marathon speed 🏃🏽‍♀️
   - keep my house plants alive 🌱
 
 I believe that a successful team is one with a culture of _empathy_, _continuous improvement_ and _collaboration._
