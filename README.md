@@ -25,7 +25,7 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Sunburn](https://www.goodreads.com/review/show/7594060165?utm_medium=api&utm_source=rss) by Laura Lippman (⭐️3.43)
+- [Saga, Volume 9](https://www.goodreads.com/review/show/7345837821?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐️4.56)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
