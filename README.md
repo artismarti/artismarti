@@ -25,7 +25,7 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Saga, Volume 10](https://www.goodreads.com/review/show/7345837942?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐️4.3)
+- [Brooklyn (Eilis Lacey, #1)](https://www.goodreads.com/review/show/7698419741?utm_medium=api&utm_source=rss) by Colm Tóibín (⭐️3.72)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
