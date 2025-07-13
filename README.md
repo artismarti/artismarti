@@ -30,11 +30,11 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Last Few Book(s) I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [Brooklyn (Eilis Lacey, #1)](https://www.goodreads.com/review/show/7698419741?utm_medium=api&utm_source=rss) by Colm Tóibín (⭐⭐)
 - [Saga, Volume 10](https://www.goodreads.com/review/show/7345837942?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐⭐⭐⭐)
 - [Here (Pantheon Graphic Library)](https://www.goodreads.com/review/show/7625519884?utm_medium=api&utm_source=rss) by Richard McGuire (⭐⭐)
 - [Saga, Volume 9](https://www.goodreads.com/review/show/7345837821?utm_medium=api&utm_source=rss) by Brian K. Vaughan (⭐⭐⭐⭐)
-- [Sunburn](https://www.goodreads.com/review/show/7594060165?utm_medium=api&utm_source=rss) by Laura Lippman (⭐⭐⭐)
-- [The Safekeep](https://www.goodreads.com/review/show/7521222460?utm_medium=api&utm_source=rss) by Yael van der Wouden (⭐⭐⭐⭐⭐)
+- [Sunburn](https://www.goodreads.com/review/show/7594060165?utm_medium=api&utm_source=rss) by Laura Lippman (⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
 
