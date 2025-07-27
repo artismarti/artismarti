@@ -25,7 +25,7 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Brooklyn (Eilis Lacey, #1)](https://www.goodreads.com/review/show/7698419741?utm_medium=api&utm_source=rss) by Colm Tóibín (⭐️3.72)
+- [A Master of Djinn (Dead Djinn Universe, #1)](https://www.goodreads.com/review/show/7485312147?utm_medium=api&utm_source=rss) by P. Djèlí Clark (⭐️4.01)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
