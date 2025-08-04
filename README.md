@@ -25,7 +25,6 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Stone Yard Devotional](https://www.goodreads.com/review/show/7780266614?utm_medium=api&utm_source=rss) by Charlotte  Wood (⭐️3.71)
 - [A Master of Djinn (Dead Djinn Universe, #1)](https://www.goodreads.com/review/show/7485312147?utm_medium=api&utm_source=rss) by P. Djèlí Clark (⭐️4.01)
 <!-- GOODREADS-LIST:END -->
 
