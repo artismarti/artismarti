@@ -25,6 +25,7 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
+- [Sunburn](https://www.goodreads.com/review/show/7594059908?utm_medium=api&utm_source=rss) by Chloe Michelle Howarth (⭐️4.31)
 - [A Master of Djinn (Dead Djinn Universe, #1)](https://www.goodreads.com/review/show/7485312147?utm_medium=api&utm_source=rss) by P. Djèlí Clark (⭐️4)
 <!-- GOODREADS-LIST:END -->
 
