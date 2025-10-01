@@ -25,7 +25,7 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Fundamentally](https://www.goodreads.com/review/show/7568642260?utm_medium=api&utm_source=rss) by Nussaibah Younis (⭐️3.74)
+- [Fundamentally](https://www.goodreads.com/review/show/7568642260?utm_medium=api&utm_source=rss) by Nussaibah Younis (⭐️3.73)
 - [Sunburn](https://www.goodreads.com/review/show/7594059908?utm_medium=api&utm_source=rss) by Chloe Michelle Howarth (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
 
