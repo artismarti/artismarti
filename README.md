@@ -25,7 +25,8 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Sunburn](https://www.goodreads.com/review/show/7594059908?utm_medium=api&utm_source=rss) by Chloe Michelle Howarth (⭐️4.3)
+- [Martyr!](https://www.goodreads.com/review/show/6576401977?utm_medium=api&utm_source=rss) by Kaveh Akbar (⭐️4.18)
+- [You Are The One You've Been Waiting For: Bringing Courageous Love To Intimate Relationships](https://www.goodreads.com/review/show/8036034274?utm_medium=api&utm_source=rss) by Richard C. Schwartz (⭐️4.39)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
