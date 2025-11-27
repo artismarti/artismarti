@@ -30,11 +30,11 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Last Few Book(s) I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [You Are The One You've Been Waiting For: Bringing Courageous Love To Intimate Relationships](https://www.goodreads.com/review/show/8036034274?utm_medium=api&utm_source=rss) by Richard C. Schwartz (⭐⭐⭐)
 - [Sunburn](https://www.goodreads.com/review/show/7594059908?utm_medium=api&utm_source=rss) by Chloe Michelle Howarth (⭐⭐⭐⭐⭐)
 - [Fundamentally](https://www.goodreads.com/review/show/7568642260?utm_medium=api&utm_source=rss) by Nussaibah Younis (⭐⭐⭐⭐)
 - [Tilt](https://www.goodreads.com/review/show/7841303001?utm_medium=api&utm_source=rss) by Emma Pattee (⭐⭐)
 - [Stone Yard Devotional](https://www.goodreads.com/review/show/7780266614?utm_medium=api&utm_source=rss) by Charlotte  Wood (⭐⭐⭐⭐)
-- [Brooklyn (Eilis Lacey, #1)](https://www.goodreads.com/review/show/7698419741?utm_medium=api&utm_source=rss) by Colm Tóibín (⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
 
