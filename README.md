@@ -25,7 +25,7 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Martyr!](https://www.goodreads.com/review/show/6576401977?utm_medium=api&utm_source=rss) by Kaveh Akbar (⭐️4.18)
+- [The Heart Goes Last](https://www.goodreads.com/review/show/8113602789?utm_medium=api&utm_source=rss) by Margaret Atwood (⭐️3.37)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
