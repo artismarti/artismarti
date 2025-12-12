@@ -25,8 +25,8 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
+- [The Dream Hotel](https://www.goodreads.com/review/show/7568811357?utm_medium=api&utm_source=rss) by Laila Lalami (⭐️3.59)
 - [Before the Coffee Gets Cold (Before the Coffee Gets Cold, #1)](https://www.goodreads.com/review/show/8117622128?utm_medium=api&utm_source=rss) by Toshikazu Kawaguchi (⭐️3.65)
-- [The Heart Goes Last](https://www.goodreads.com/review/show/8113602789?utm_medium=api&utm_source=rss) by Margaret Atwood (⭐️3.37)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
