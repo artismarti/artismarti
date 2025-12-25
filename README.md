@@ -25,7 +25,7 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Before the Coffee Gets Cold (Before the Coffee Gets Cold, #1)](https://www.goodreads.com/review/show/8117622128?utm_medium=api&utm_source=rss) by Toshikazu Kawaguchi (⭐️3.65)
+- [The Loneliness of Sonia and Sunny](https://www.goodreads.com/review/show/7924928229?utm_medium=api&utm_source=rss) by Kiran Desai (⭐️3.81)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
