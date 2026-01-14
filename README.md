@@ -25,6 +25,7 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
+- [Writers &amp; Lovers](https://www.goodreads.com/review/show/7961345763?utm_medium=api&utm_source=rss) by Lily King (⭐️3.97)
 - [The Loneliness of Sonia and Sunny](https://www.goodreads.com/review/show/7924928229?utm_medium=api&utm_source=rss) by Kiran Desai (⭐️3.79)
 <!-- GOODREADS-LIST:END -->
 
