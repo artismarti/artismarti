@@ -25,7 +25,8 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [The Loneliness of Sonia and Sunny](https://www.goodreads.com/review/show/7924928229?utm_medium=api&utm_source=rss) by Kiran Desai (⭐️3.78)
+- [There Are Rivers in the Sky](https://www.goodreads.com/review/show/7645893192?utm_medium=api&utm_source=rss) by Elif Shafak (⭐️4.33)
+- [The Loneliness of Sonia and Sunny](https://www.goodreads.com/review/show/7924928229?utm_medium=api&utm_source=rss) by Kiran Desai (⭐️3.77)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
