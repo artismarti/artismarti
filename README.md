@@ -25,7 +25,6 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Heart the Lover](https://www.goodreads.com/review/show/7961345902?utm_medium=api&utm_source=rss) by Lily King (⭐️4.24)
 - [Orbital](https://www.goodreads.com/review/show/7381812759?utm_medium=api&utm_source=rss) by Samantha Harvey (⭐️3.45)
 <!-- GOODREADS-LIST:END -->
 
