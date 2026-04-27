@@ -31,11 +31,11 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Last Few Book(s) I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [Bye-Bye Babylon: Beirut 1975-1979](https://www.goodreads.com/review/show/8550918179?utm_medium=api&utm_source=rss) by Lamia Ziadé (⭐⭐⭐)
 - [The Dutch House](https://www.goodreads.com/review/show/3090072677?utm_medium=api&utm_source=rss) by Ann Patchett (⭐⭐⭐)
 - [Heart the Lover](https://www.goodreads.com/review/show/7961345902?utm_medium=api&utm_source=rss) by Lily King (⭐⭐⭐⭐)
 - [Service Model](https://www.goodreads.com/review/show/8379687160?utm_medium=api&utm_source=rss) by Adrian Tchaikovsky (⭐⭐⭐)
 - [Ordinary Love](https://www.goodreads.com/review/show/8355047604?utm_medium=api&utm_source=rss) by Marie Rutkoski (⭐⭐⭐⭐)
-- [There Are Rivers in the Sky](https://www.goodreads.com/review/show/7645893192?utm_medium=api&utm_source=rss) by Elif Shafak (⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
 
