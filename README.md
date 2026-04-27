@@ -25,8 +25,8 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Bye-Bye Babylon: Beirut 1975-1979](https://www.goodreads.com/review/show/8550918179?utm_medium=api&utm_source=rss) by Lamia Ziadé (⭐️3.84)
 - [Cartooning: Philosophy and Practice](https://www.goodreads.com/review/show/8512411593?utm_medium=api&utm_source=rss) by Ivan Brunetti (⭐️4.19)
+- [Mother Mary Comes to Me](https://www.goodreads.com/review/show/8118954068?utm_medium=api&utm_source=rss) by Arundhati Roy (⭐️4.41)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
