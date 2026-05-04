@@ -25,8 +25,8 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
+- [The Names](https://www.goodreads.com/review/show/8086670838?utm_medium=api&utm_source=rss) by Florence Knapp (⭐️4.1)
 - [Cartooning: Philosophy and Practice](https://www.goodreads.com/review/show/8512411593?utm_medium=api&utm_source=rss) by Ivan Brunetti (⭐️4.19)
-- [Love Marriage](https://www.goodreads.com/review/show/8478356513?utm_medium=api&utm_source=rss) by V.V. Ganeshananthan (⭐️3.54)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
