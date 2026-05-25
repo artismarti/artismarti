@@ -25,8 +25,8 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [This Is Where the Serpent Lives](https://www.goodreads.com/review/show/8355401955?utm_medium=api&utm_source=rss) by Daniyal Mueenuddin (⭐️3.77)
 - [Cartooning: Philosophy and Practice](https://www.goodreads.com/review/show/8512411593?utm_medium=api&utm_source=rss) by Ivan Brunetti (⭐️4.18)
+- [Love Marriage](https://www.goodreads.com/review/show/8478356513?utm_medium=api&utm_source=rss) by V.V. Ganeshananthan (⭐️3.53)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
