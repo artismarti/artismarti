@@ -25,7 +25,7 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [London Falling: A Mysterious Death in a Gilded City and a Family's Search for Truth](https://www.goodreads.com/review/show/8661012136?utm_medium=api&utm_source=rss) by Patrick Radden Keefe (⭐️4.39)
+- [London Falling: A Mysterious Death in a Gilded City and a Family's Search for Truth](https://www.goodreads.com/review/show/8661012136?utm_medium=api&utm_source=rss) by Patrick Radden Keefe (⭐️4.38)
 - [Cartooning: Philosophy and Practice](https://www.goodreads.com/review/show/8512411593?utm_medium=api&utm_source=rss) by Ivan Brunetti (⭐️4.18)
 <!-- GOODREADS-LIST:END -->
 
