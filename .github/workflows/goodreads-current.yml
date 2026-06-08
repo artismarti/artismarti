@@ -4,6 +4,9 @@ on:
     # This will make it run every night at 10:01 PM
     - cron: "1 22 * * *"
   workflow_dispatch:
+concurrency:
+  group: goodreads-readme-update
+  cancel-in-progress: false
 jobs:
   update-readme-with-goodreads-books:
     name: Update this repo's README with what you're currently reading
