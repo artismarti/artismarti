@@ -25,8 +25,8 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
+- [I Who Have Never Known Men](https://www.goodreads.com/review/show/8679736071?utm_medium=api&utm_source=rss) by Jacqueline Harpman (⭐️4.01)
 - [The Alice Network](https://www.goodreads.com/review/show/4979063513?utm_medium=api&utm_source=rss) by Kate Quinn (⭐️4.3)
-- [Cartooning: Philosophy and Practice](https://www.goodreads.com/review/show/8512411593?utm_medium=api&utm_source=rss) by Ivan Brunetti (⭐️4.18)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
