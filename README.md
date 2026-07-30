@@ -25,8 +25,8 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
+- [The List](https://www.goodreads.com/review/show/8786635705?utm_medium=api&utm_source=rss) by Yomi Adegoke (⭐️2.96)
 - [The Persians](https://www.goodreads.com/review/show/8742952978?utm_medium=api&utm_source=rss) by Sanam Mahloudji (⭐️3.35)
-- [Orbital](https://www.goodreads.com/review/show/7381812759?utm_medium=api&utm_source=rss) by Samantha Harvey (⭐️3.44)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
