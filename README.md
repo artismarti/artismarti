@@ -31,11 +31,11 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Last Few Book(s) I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [The List](https://www.goodreads.com/review/show/8786635705?utm_medium=api&utm_source=rss) by Yomi Adegoke (⭐⭐)
+- [The Persians](https://www.goodreads.com/review/show/8742952978?utm_medium=api&utm_source=rss) by Sanam Mahloudji (⭐⭐⭐)
 - [The Alice Network](https://www.goodreads.com/review/show/4979063513?utm_medium=api&utm_source=rss) by Kate Quinn (⭐⭐)
 - [I Who Have Never Known Men](https://www.goodreads.com/review/show/8679736071?utm_medium=api&utm_source=rss) by Jacqueline Harpman (⭐⭐⭐)
 - [Cartooning: Philosophy and Practice](https://www.goodreads.com/review/show/8512411593?utm_medium=api&utm_source=rss) by Ivan Brunetti (⭐⭐⭐⭐)
-- [London Falling: A Mysterious Death in a Gilded City and a Family's Search for Truth](https://www.goodreads.com/review/show/8661012136?utm_medium=api&utm_source=rss) by Patrick Radden Keefe (⭐⭐⭐⭐⭐)
-- [The Wedding People](https://www.goodreads.com/review/show/7079157664?utm_medium=api&utm_source=rss) by Alison Espach (⭐⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
 
