@@ -25,8 +25,8 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Broken Glass](https://www.goodreads.com/review/show/8819335875?utm_medium=api&utm_source=rss) by Arthur Miller (⭐️3.5)
-- [Orbital](https://www.goodreads.com/review/show/7381812759?utm_medium=api&utm_source=rss) by Samantha Harvey (⭐️3.44)
+- [The Water Cure](https://www.goodreads.com/review/show/2709840506?utm_medium=api&utm_source=rss) by Sophie Mackintosh (⭐️3.22)
+- [Butter](https://www.goodreads.com/review/show/8392854915?utm_medium=api&utm_source=rss) by Asako Yuzuki (⭐️3.41)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
