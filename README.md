@@ -26,7 +26,7 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
 - [Breadcrumbs: Coming of Age in Post-Soviet Poland](https://www.goodreads.com/review/show/8833196470?utm_medium=api&utm_source=rss) by Kasia Babis (⭐️3.67)
-- [The Water Cure](https://www.goodreads.com/review/show/2709840506?utm_medium=api&utm_source=rss) by Sophie Mackintosh (⭐️3.21)
+- [The Water Cure](https://www.goodreads.com/review/show/2709840506?utm_medium=api&utm_source=rss) by Sophie Mackintosh (⭐️3.22)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
