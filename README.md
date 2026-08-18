@@ -25,8 +25,8 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Breadcrumbs: Coming of Age in Post-Soviet Poland](https://www.goodreads.com/review/show/8833196470?utm_medium=api&utm_source=rss) by Kasia Babis (⭐️3.66)
 - [Butter](https://www.goodreads.com/review/show/8392854915?utm_medium=api&utm_source=rss) by Asako Yuzuki (⭐️3.41)
+- [Orbital](https://www.goodreads.com/review/show/7381812759?utm_medium=api&utm_source=rss) by Samantha Harvey (⭐️3.44)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
