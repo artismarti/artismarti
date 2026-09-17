@@ -31,11 +31,11 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Last Few Book(s) I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
+- [Ducks: Two Years in the Oil Sands](https://www.goodreads.com/review/show/8940366513?utm_medium=api&utm_source=rss) by Kate Beaton (⭐⭐⭐⭐)
 - [Breadcrumbs: Coming of Age in Post-Soviet Poland](https://www.goodreads.com/review/show/8871431780?utm_medium=api&utm_source=rss) by Kasia Babis (⭐⭐⭐⭐)
 - [Breadcrumbs: Coming of Age in Post-Soviet Poland](https://www.goodreads.com/review/show/8833196470?utm_medium=api&utm_source=rss) by Kasia Babis (⭐⭐⭐⭐)
 - [The Road: A Graphic Novel Adaptation](https://www.goodreads.com/review/show/8827077059?utm_medium=api&utm_source=rss) by Manu Larcenet (⭐⭐⭐⭐)
 - [Broken Glass](https://www.goodreads.com/review/show/8819335875?utm_medium=api&utm_source=rss) by Arthur Miller (⭐⭐⭐)
-- [The List](https://www.goodreads.com/review/show/8786635705?utm_medium=api&utm_source=rss) by Yomi Adegoke (⭐⭐)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
 
