@@ -25,7 +25,6 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Lord of the Flies: The Graphic Novel (A Penguin Classics Hardcover)](https://www.goodreads.com/review/show/8950185015?utm_medium=api&utm_source=rss) by William Golding (⭐️4.3)
 - [Orbital](https://www.goodreads.com/review/show/7381812759?utm_medium=api&utm_source=rss) by Samantha Harvey (⭐️3.44)
 <!-- GOODREADS-LIST:END -->
 
