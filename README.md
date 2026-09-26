@@ -26,7 +26,7 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
 - [The Correspondent](https://www.goodreads.com/review/show/8489833310?utm_medium=api&utm_source=rss) by Virginia      Evans (⭐️4.41)
-- [Orbital](https://www.goodreads.com/review/show/7381812759?utm_medium=api&utm_source=rss) by Samantha Harvey (⭐️3.44)
+- [Orbital](https://www.goodreads.com/review/show/7381812759?utm_medium=api&utm_source=rss) by Samantha Harvey (⭐️3.43)
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
