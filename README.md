@@ -25,7 +25,6 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Strangers: A Memoir of Marriage](https://www.goodreads.com/review/show/8956191121?utm_medium=api&utm_source=rss) by Belle Burden (⭐️3.99)
 - [Orbital](https://www.goodreads.com/review/show/7381812759?utm_medium=api&utm_source=rss) by Samantha Harvey (⭐️3.43)
 <!-- GOODREADS-LIST:END -->
 
