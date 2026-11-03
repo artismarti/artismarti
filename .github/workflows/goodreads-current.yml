@@ -1,4 +1,4 @@
-name: Currently reading on Goodreads
+name: Goodreads book lists
 on:
   schedule: # Run workflow automatically
     # This will make it run every night at 10:01 PM
@@ -11,7 +11,7 @@ permissions:
   contents: write
 jobs:
   update-readme-with-goodreads-books:
-    name: Update this repo's README with what you're currently reading
+    name: Update README book lists
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
@@ -22,13 +22,15 @@ jobs:
         run: python -m unittest discover -s .github/scripts
       - name: Update currently reading
         run: python .github/scripts/update_currently_reading.py
+      - name: Update recently read
+        run: python .github/scripts/update_recently_read.py
       - name: Commit book list
         run: |
-          if git diff --quiet -- README.md; then
+          if git diff --quiet -- README.md .github/goodreads-recent.json; then
             exit 0
           fi
           git config user.name "goodreads-books-bot"
           git config user.email "goodreads-books-bot@example.com"
-          git add README.md
-          git commit -m "Update currently reading books"
+          git add README.md .github/goodreads-recent.json
+          git commit -m "Update Goodreads book lists"
           git push

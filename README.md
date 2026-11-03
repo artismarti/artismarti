@@ -31,11 +31,9 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Last Few Book(s) I've Read 📚
 <!-- GOODREADS-READ-LIST:START -->
-- [Strangers: A Memoir of Marriage](https://www.goodreads.com/review/show/8956191121?utm_medium=api&utm_source=rss) by Belle Burden (⭐⭐⭐⭐)
-- [Lord of the Flies: The Graphic Novel (A Penguin Classics Hardcover)](https://www.goodreads.com/review/show/8950185015?utm_medium=api&utm_source=rss) by William Golding (⭐⭐⭐⭐)
-- [Ducks: Two Years in the Oil Sands](https://www.goodreads.com/review/show/8940366513?utm_medium=api&utm_source=rss) by Kate Beaton (⭐⭐⭐⭐)
-- [Breadcrumbs: Coming of Age in Post-Soviet Poland](https://www.goodreads.com/review/show/8871431780?utm_medium=api&utm_source=rss) by Kasia Babis (⭐⭐⭐⭐)
-- [Breadcrumbs: Coming of Age in Post-Soviet Poland](https://www.goodreads.com/review/show/8833196470?utm_medium=api&utm_source=rss) by Kasia Babis (⭐⭐⭐⭐)
+- [Strangers: A Memoir of Marriage](https://www.goodreads.com/book/show/231108670) by Belle Burden (⭐ 4/5)
+- [Cleopatra](https://www.goodreads.com/book/show/234943561-cleopatra) by Saara El-Arifi
+- [Lord of the Flies: The Graphic Novel (A Penguin Classics Hardcover)](https://www.goodreads.com/book/show/232026855) by William Golding (⭐ 4/5)
 <!-- GOODREADS-READ-LIST:END -->
 ❤️
 
