@@ -25,7 +25,8 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
-- [Orbital](https://www.goodreads.com/review/show/7381812759?utm_medium=api&utm_source=rss) by Samantha Harvey (⭐️3.43)
+- [Commonwealth](https://www.goodreads.com/book/show/28214365-commonwealth) by Ann Patchett
+- [Orbital](https://www.goodreads.com/book/show/123136728-orbital) by Samantha Harvey
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
