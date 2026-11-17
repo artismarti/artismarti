@@ -25,8 +25,8 @@ I believe that a successful team is one with a culture of _empathy_, _continuous
 
 ### Book(s) I'm Reading 📖
 <!-- GOODREADS-LIST:START -->
+- [Good Company](https://www.goodreads.com/book/show/54798430-good-company) by Cynthia D'Aprix Sweeney
 - [Commonwealth](https://www.goodreads.com/book/show/28214365-commonwealth) by Ann Patchett
-- [Orbital](https://www.goodreads.com/book/show/123136728-orbital) by Samantha Harvey
 <!-- GOODREADS-LIST:END -->
 
 ### Last Few Book(s) I've Read 📚
