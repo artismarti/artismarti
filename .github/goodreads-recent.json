@@ -1,5 +1,12 @@
 [
   {
+    "id": "54798430",
+    "title": "Good Company",
+    "author": "Cynthia D'Aprix Sweeney",
+    "url": "https://www.goodreads.com/book/show/54798430-good-company",
+    "finished": "2026-11-19"
+  },
+  {
     "id": "231108670",
     "title": "Strangers: A Memoir of Marriage",
     "author": "Belle Burden",
@@ -13,13 +20,5 @@
     "author": "Saara El-Arifi",
     "url": "https://www.goodreads.com/book/show/234943561-cleopatra",
     "finished": "2026-10-21"
-  },
-  {
-    "id": "232026855",
-    "title": "Lord of the Flies: The Graphic Novel (A Penguin Classics Hardcover)",
-    "author": "William Golding",
-    "url": "https://www.goodreads.com/book/show/232026855",
-    "finished": "2026-09-18",
-    "rating": 4
   }
 ]
